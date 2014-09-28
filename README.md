@@ -1,7 +1,7 @@
 WorkoutTracker
 ==============
 
-Sample Rest App in Node.JS, Express.JS, MongoDB and Angular.JS
+Sample Rest App in Node.JS, Express.JS, MongoDB (using mongoose connector) and Angular.JS
 
 Make sure, you have installed Node.JS and "npm" is working.
 
